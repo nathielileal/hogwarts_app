@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+        <style name="Base.Theme.HogwartsApp" parent="Theme.Material3.DayNight.NoActionBar">
+                <item name="android:windowBackground">@android:color/black</item>
+
+                <item name="colorOnPrimary">@android:color/black</item>
+                <item name="colorOnSecondary">@android:color/black</item>
+                <item name="colorOnSurface">@android:color/black</item>
+                <item name="colorOnBackground">@android:color/black</item>
+
+
+        </style>
+
+        <style name="Theme.HogwartsApp" parent="Base.Theme.HogwartsApp" />
+</resources>
